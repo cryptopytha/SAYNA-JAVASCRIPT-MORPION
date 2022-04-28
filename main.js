@@ -42,7 +42,7 @@
             for (let j=0; j<items.length+1; j++) {
                 
                 if (items[0].textContent===symbole && items[1].textContent===items[0].textContent && items[2].textContent===items[1].textContent) {
-                    alert(1);
+                    
                 } 
             }
     }
